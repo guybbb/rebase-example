@@ -1,4 +1,4 @@
-1. New feature branch our of master 
+1. New feature branch out of master 
 `git checkout -b new_feature`
 2. Commit your work
 3. Rebase over master (remember to git fetch/git pull before)
